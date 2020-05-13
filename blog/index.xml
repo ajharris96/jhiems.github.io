@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://jhiems.github.io/</link>
-    <description>Recent content on </description>
+    <title>Blogs on </title>
+    <link>https://jhiems.github.io/blog/</link>
+    <description>Recent content in Blogs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 May 2020 15:08:28 -0400</lastBuildDate>
     
-	<atom:link href="https://jhiems.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jhiems.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://jhiems.github.io/blog/blog/</guid>
       <description>This is a test of trying to add a page to the blog. Does it work?</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://jhiems.github.io/posts/my-first-post/</link>
-      <pubDate>Tue, 12 May 2020 13:10:14 -0400</pubDate>
-      
-      <guid>https://jhiems.github.io/posts/my-first-post/</guid>
-      <description>this is a test of Hugo&amp;hellip;. testing hello world</description>
     </item>
     
   </channel>
