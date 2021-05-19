@@ -5,16 +5,6 @@
     <link>https://jhiems.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2020 12:15:01 -0400</lastBuildDate><atom:link href="https://jhiems.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Unstucco</title>
-      <link>https://jhiems.github.io/projects/unstucco/</link>
-      <pubDate>Thu, 14 May 2020 12:15:01 -0400</pubDate>
-      
-      <guid>https://jhiems.github.io/projects/unstucco/</guid>
-      <description>You found an easter egg! Good job, gold star.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://jhiems.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
